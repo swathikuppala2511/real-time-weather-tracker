@@ -14,7 +14,7 @@ HTML5
 CSS3
 JavaScript
 REST API
-OpenWeather API
+OpenWeather API_
 
 Project Objective
 
